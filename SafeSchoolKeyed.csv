@@ -1,0 +1,292 @@
+"","School.Name","Education.Sector","School.Type","School.No","School_No"
+"1","Abbotsford Primary School","Government","Primary",0,1886
+"2","Albert Park College","Government","Secondary",0,8889
+"3","Alia College","Independent","Secondary",0,1981
+"4","Alkira Secondary College","Government","Secondary",0,8874
+"5","Alphington Primary School","Government","Primary",0,3599
+"6","Altona Green Primary School","Government","Primary",0,5287
+"7","Altona Primary School","Government","Primary",0,3923
+"8","AMEP/Language & Literacy Programs, Victoria University Sunshine","RTO/VET","Secondary",0,0
+"9","Apollo Bay P-12 College","Government","Pri/Sec",0,6203
+"10","Ashwood High School","Government","Secondary",0,8743
+"11","Auburn High School","Government","Secondary",0,7526
+"12","Bairnsdale Secondary College","Government","Secondary",0,8466
+"13","Ballarat High School","Government","Secondary",0,7540
+"14","Ballarat Specialist School","Government","Special",0,4762
+"15","Balwyn High School","Government","Secondary",0,7550
+"16","Beaconhills College","Independent","Pri/Sec",0,1855
+"17","Bellarine Secondary College","Government","Secondary",0,8250
+"18","Belmont High School","Government","Secondary",0,7585
+"19","Benalla P-12 College","Government","Pri/Sec",0,8915
+"20","Bentleigh Secondary College","Government","Secondary",0,7255
+"21","Berendale School","Government","Special",0,4928
+"22","Berwick Secondary College","Government","Secondary",0,7603
+"23","Bialik College","Independent","Pri/Sec",0,1626
+"24","Billanook College","Independent","Pri/Sec",0,1816
+"25","Blackburn High School","Government","Secondary",0,7610
+"26","Box Hill High School","Government","Secondary",0,7635
+"27","Box Hill Senior Secondary College","Government","Secondary",0,7050
+"28","Braybrook College","Government","Secondary",0,7645
+"29","Brentwood Secondary College","Government","Secondary",0,7647
+"30","Briar Hill Primary School","Government","Primary",0,4341
+"31","Brighton Secondary College","Government","Secondary",0,7650
+"32","Brunswick East Primary School","Government","Primary",0,3179
+"33","Brunswick Secondary College","Government","Secondary",0,8807
+"34","Brunswick South Primary School","Government","Primary",0,2743
+"35","Buckley Park College","Government","Secondary",0,7670
+"36","Bundoora Secondary College","Government","Secondary",0,7874
+"37","Buninyong Primary School","Government","Primary",0,1270
+"38","Camberwell Grammar School","Independent","Pri/Sec",0,1258
+"39","Camberwell High School","Government","Secondary",0,7680
+"40","Cambridge Primary School","Government","Primary",0,5312
+"41","Camperdown College","Government","Pri/Sec",0,6259
+"42","Canterbury Girls' Secondary College","Government","Secondary",0,0
+"43","Carey Baptist Grammar School","Independent","Pri/Sec",0,1189
+"44","Carranballac P-9 College","Government","Pri/Sec",0,5486
+"45","Carrum Downs Secondary College","Government","Secondary",0,8423
+"46","Carwatha College P-12","Government","Pri/Sec",0,5435
+"47","Castlemaine Secondary College","Government","Secondary",0,8824
+"48","Caulfield Grammar School","Independent","Pri/Sec",0,96
+"49","Chaffey Secondary College","Government","Secondary",0,7250
+"50","Charles La Trobe P-12 College","Government","Pri/Sec",0,8890
+"51","Cheltenham Secondary College","Government","Secondary",0,7720
+"52","Cire Community School/Cire Training","Independent","Special",0,0
+"53","Clifton Hill Primary School","Government","Primary",0,1360
+"54","Coburg High School","Government","Secondary",0,8849
+"55","Coburg North Primary School","Government","Primary",0,4543
+"56","Collingwood College","Government","Pri/Sec",0,6212
+"57","Copperfield College","Government","Secondary",0,8799
+"58","Cranbourne East Secondary College","Government","Secondary",0,8898
+"59","Cranbourne Secondary College","Government","Secondary",0,7747
+"60","Croydon Community School","Government","Secondary",0,7757
+"61","Crusoe 7-10 Secondary College","Government","Secondary",0,7205
+"62","Diamond Valley College","Government","Secondary",0,8746
+"63","Dimboola Memorial Secondary College","Government","Secondary",0,7770
+"64","Dromana Secondary College","Government","Secondary",0,7122
+"65","East Doncaster Secondary College","Government","Secondary",0,7773
+"66","Edenhope College","Government","Pri/Sec",0,5432
+"67","Elisabeth Murdoch College","Government","Secondary",0,8722
+"68","Eltham College","Independent","Pri/Sec",0,1714
+"69","Eltham High School","Government","Secondary",0,7805
+"70","Elwood College","Government","Secondary",0,7810
+"71","Emerald Secondary College","Government","Secondary",0,8707
+"72","Epping Secondary College","Government","Secondary",0,7813
+"73","Essendon East Keilor District College","Government","Secondary",0,8806
+"74","Federation College","RTO/VET","Secondary",0,0
+"75","Ferntree Gully North Primary School","Government","Primary",0,4718
+"76","Fintona Girls' College","Independent","Pri/Sec",0,0
+"77","Firbank Grammar School","Independent","Pri/Sec",0,879
+"78","Fitzroy High School","Government","Secondary",0,8742
+"79","Footscray City College","Government","Secondary",0,8836
+"80","Forest Hill College","Government","Secondary",0,8724
+"81","Fountain Gate Secondary College","Government","Secondary",0,8870
+"82","Frankston High School","Government","Secondary",0,7850
+"83","FRESH Program","RTO/VET","Secondary",0,0
+"84","Geelong Grammar","Independent","Pri/Sec",0,0
+"85","Geelong High School","Government","Secondary",0,7855
+"86","Gilmore College for Girls","Government","Secondary",0,0
+"87","Gisborne Secondary College","Government","Secondary",0,7857
+"88","Glen Eira College","Government","Secondary",0,8704
+"89","Glen Waverley Secondary College","Government","Secondary",0,8808
+"90","Gleneagles Secondary college","Government","Secondary",0,0
+"91","Glengala/Sunshine West Primary School","Government","Primary",0,5050
+"92","Goulburn Valley Grammar School","Independent","Pri/Sec",0,1840
+"93","Greensborough Secondary College","Government","Secondary",0,8750
+"94","Hallam Senior Secondary College","Government","Secondary",0,8868
+"95","Hampton Park Secondary College","Government","Secondary",0,8709
+"96","Hawkesdale P-12 College","Government","Pri/Sec",0,0
+"97","Heathmont College","Government","Secondary",0,8816
+"98","Heywood District Secondary College","Government","Secondary",0,7910
+"99","Highvale Primary School","Government","Primary",0,4986
+"100","Holmesglen TAFE","RTO/VET","Secondary",0,0
+"101","Hoppers Crossing Secondary College","Government","Secondary",0,8710
+"102","Horsham College","Government","Secondary",0,8818
+"103","Hume Central Secondary College","Government","Secondary",0,8862
+"104","Ivanhoe Girls Grammar School","Independent","Pri/Sec",0,0
+"105","Ivanhoe Grammar School","Independent","Pri/Sec",0,1004
+"106","John Fawkner Secondary College","Government","Secondary",0,8894
+"107","John Monash Science School","Government","Secondary",0,8856
+"108","Kambrya Secondary College","Government","Secondary",0,0
+"109","Karingal Primary School","Government","Primary",0,4922
+"110","Keilor Downs Secondary College","Government","Secondary",0,8715
+"111","Kensington Community High School","Government","Secondary",0,7947
+"112","Kensington Primary School","Government","Primary",0,2374
+"113","Kew High School","Government","Secondary",0,7950
+"114","Keysborough College","Government","Secondary",0,0
+"115","Kingswood College","Independent","Pri/Sec",0,1304
+"116","Koo Wee Rup Secondary College","Government","Secondary",0,7955
+"117","Koonung Secondary College","Government","Secondary",0,7954
+"118","Kurnai College","Government","Secondary",0,8716
+"119","Kurunjang Secondary College","Government","Secondary",0,8718
+"120","Kyneton Secondary College","Government","Secondary",0,7970
+"121","Lakeview Senior College","Government","Secondary",0,8910
+"122","Lalor East Primary School","Government","Primary",0,4976
+"123","Lara Secondary College","Government","Secondary",0,8841
+"124","Laverton P-12 College","Government","Pri/Sec",0,8861
+"125","Leongatha Secondary College","Government","Secondary",0,8745
+"126","Lilydale Heights College","Government","Secondary",0,7219
+"127","Lilydale High School","Government","Secondary",0,7995
+"128","Little Yarra Steiner School","Independent","Primary",0,1914
+"129","Lorne - Aireys Inlet P-12 College","Government","Pri/Sec",0,0
+"130","Lowther Hall Anglican Grammar School","Independent","Pri/Sec",0,1117
+"131","Lynall Hall Community School","Government","Secondary",0,8003
+"132","Lyndhurst Secondary College","Government","Secondary",0,7108
+"133","Macedon Primary School","Government","Primary",0,1660
+"134","Macleod College","Government","Pri/Sec",0,6242
+"135","MacRobertson Girls High School","Government","Secondary",0,8135
+"136","Mallacoota P-12 College","Government","Pri/Sec",0,3515
+"137","Manor Lakes P-12 College","Government","Pri/Sec",0,8848
+"138","Maribyrnong Secondary College","Government","Secondary",0,8015
+"139","Maryborough Education Centre","Government","Pri/Sec",0,8845
+"140","Matthew Flinders Girls Secondary College","Government","Secondary",0,8022
+"141","McClelland Secondary College","Government","Secondary",0,8835
+"142","McGuire College","Government","Secondary",0,7331
+"143","McKinnon Secondary College","Government","Secondary",0,0
+"144","Melba College","Government","Secondary",0,0
+"145","Melbourne Academy","RTO/VET","Secondary",0,0
+"146","Melbourne Girls College","Government","Secondary",0,8819
+"147","Melbourne High School","Government","Secondary",0,8025
+"148","Melton Secondary College","Government","Secondary",0,8027
+"149","Melton Specialist School","Government","Special",0,5162
+"150","Mentone Girls' Grammar School","Independent","Pri/Sec",0,1213
+"151","Mentone Girls' Secondary College","Government","Secondary",0,0
+"152","Mentone Grammar","Independent","Secondary",0,0
+"153","Merbein P-10 College","Government","Pri/Sec",0,8886
+"154","Merino Consolidated School","Government","Primary",0,6237
+"155","Methodist Ladies College","Independent","Pri/Sec",0,0
+"156","Mildura Senior College","Government","Secondary",0,8045
+"157","Mill Park Secondary College","Government","Secondary",0,8775
+"158","Monterey Secondary College","Government","Secondary",0,8809
+"159","Montmorency Secondary College","Government","Secondary",0,8068
+"160","Montmorency South Primary School","Government","Primary",0,4925
+"161","Mooroolbark College","Government","Secondary",0,8071
+"162","Mooroopna Secondary College","Government","Secondary",0,8073
+"163","Mordialloc College","Government","Secondary",0,8075
+"164","Mornington Park Primary School","Government","Primary",0,5040
+"165","Mornington Secondary College","Government","Secondary",0,8804
+"166","Mount Alexander 7-12 College","Government","Secondary",0,7763
+"167","Mount Clear College","Government","Secondary",0,7267
+"168","Mount Eliza Secondary College","Government","Secondary",0,8102
+"169","Mount Erin Secondary College","Government","Secondary",0,7028
+"170","Mount Ridley P-12 College","Government","Pri/Sec",0,8853
+"171","Mount Waverley Secondary College","Government","Secondary",0,8105
+"172","Mountain District Learning Centre","RTO/VET","Secondary",0,0
+"173","Mullauna Secondary College","Government","Secondary",0,8744
+"174","Narre Warren South P-12 College","Government","Pri/Sec",0,8839
+"175","Newcomb Secondary College","Government","Secondary",0,8151
+"176","Newport Lakes Primary School","Government","Primary",0,113
+"177","North Geelong Secondary College","Government","Secondary",0,7856
+"178","Northcote High School","Government","Secondary",0,8180
+"179","Northcote Primary School","Government","Primary",0,1401
+"180","Northern Bay P-12 College","Government","Pri/Sec",0,8901
+"181","Northern College of the Arts and Technology","Government","Secondary",0,7300
+"182","Nossal High School","Government","Secondary",0,8865
+"183","Numurkah Secondary College","Government","Secondary",0,8190
+"184","Oakwood School","Government","Secondary",0,8337
+"185","Oatlands Primary School","Government","Primary",0,5363
+"186","Ocean Grove Primary School","Government","Primary",0,3100
+"187","Officer Secondary College","Government","Secondary",0,0
+"188","Overnewton Anglican Community College","Independent","Pri/Sec",0,1908
+"189","Pakenham Springs Primary School","Government","Primary",0,5507
+"190","Parkdale Secondary College","Government","Secondary",0,8225
+"191","Pascoe Vale Girls Secondary College","Government","Secondary",0,8227
+"192","Patrick Studios Australia","RTO/VET","Secondary",0,0
+"193","Patterson River Secondary College","Government","Secondary",0,8725
+"194","Pearcedale Primary School","Government","Primary",0,2961
+"195","Penleigh and Essendon Grammar School","Independent","Pri/Sec",0,0
+"196","Peter Lalor Secondary College","Government","Secondary",0,7217
+"197","Phoenix P-12 Community College","Government","Pri/Sec",0,8900
+"198","Point Cook Prep - Year 9 College","Government","Pri/Sec",0,4159
+"199","Point Cook Senior Secondary College","Government","Secondary",0,8847
+"200","Portland Secondary College","Government","Secondary",0,8798
+"201","Preshil: The Margaret Lyttle Memorial School","Independent","Pri/Sec",0,0
+"202","Princes Hill Secondary College","Government","Secondary",0,8245
+"203","Red Cliffs Secondary College","Government","Secondary",0,8260
+"204","Reservoir High School","Government","Secondary",0,8708
+"205","Ringwood Secondary College","Government","Secondary",0,8270
+"206","RMIT VCE Program","RTO/VET","Secondary",0,0
+"207","Rosebud Secondary College","Government","Secondary",0,8290
+"208","Rosehill Secondary College","Government","Secondary",0,7275
+"209","Rowville Secondary College","Government","Secondary",0,8734
+"210","Roxburgh College","Government","Secondary",0,8407
+"211","Royal Children's Hospital Education Institute","Government","Special",0,0
+"212","Rutherglen High School","Government","Secondary",0,8300
+"213","Ruyton Girls' School","Independent","Pri/Sec",0,83
+"214","Sandringham College","Government","Secondary",0,8739
+"215","School of Foundational Studies & Adult Learning","RTO/VET","Secondary",0,0
+"216","Scoresby Secondary College","Government","Secondary",0,8307
+"217","SEDA College","Independent","Secondary",0,0
+"218","Seymour College","Government","Pri/Sec",0,8884
+"219","Shepparton High School","Government","Secondary",0,8320
+"220","Sherbrooke Community School","Government","Pri/Sec",0,6252
+"221","Sholem Aleichem College","Independent","Primary",0,1729
+"222","Skillsplus Youth Education","RTO/VET","Secondary",0,0
+"223","Somerville Secondary College","Government","Secondary",0,8875
+"224","South Gippsland Secondary College","Government","Secondary",0,0
+"225","South Oakleigh Secondary College","Government","Secondary",0,8801
+"226","Southern Cross Primary School","Government","Primary",0,5235
+"227","Spensley Street Primary School","Government","Primary",0,3146
+"228","St Albans Secondary College","Government","Secondary",0,8330
+"229","St Arnaud Secondary College","Government","Secondary",0,8335
+"230","St Helena Secondary College","Government","Secondary",0,8730
+"231","St Joseph's College","Catholic","Secondary",0,1646
+"232","St Joseph's Flexible learning Centre","Catholic","Secondary",0,0
+"233","St Kilda Primary School","Government","Primary",0,1479
+"234","St Leonard's College","Independent","Pri/Sec",0,1025
+"235","St Michael's Grammar School","Independent","Pri/Sec",0,818
+"236","Staughton College","Government","Secondary",0,7247
+"237","Strathmore Secondary College","Government","Secondary",0,8345
+"238","Sunbury College","Government","Secondary",0,8350
+"239","Surf Coast Secondary College","Government","Secondary",0,8903
+"240","Suzanne Cory High School","Government","Secondary",0,8866
+"241","Swan Hill College","Government","Secondary",0,8802
+"242","Swinburne Senior Secondary College","Government","Secondary",0,7366
+"243","Sydney Road Community School","Government","Secondary",0,8368
+"244","Taradale Primary School","Government","Primary",0,614
+"245","Tarneit Senior College","Government","Secondary",0,8854
+"246","Taylors Lakes Secondary College","Government","Secondary",0,8787
+"247","Templestowe College","Government","Secondary",0,8823
+"248","The Alpine School","Government","Secondary",0,8837
+"249","The Berry Street School","RTO/VET","Secondary",0,0
+"250","The Grange P-12 College","Government","Pri/Sec",0,8783
+"251","The King David School","Independent","Pri/Sec",0,1773
+"252","The Peninsula School","Independent","Pri/Sec",0,1610
+"253","Thornbury High School","Government","Secondary",0,8797
+"254","Timbarra P-9 College","Government","Pri/Sec",0,5479
+"255","Trafalgar High School","Government","Secondary",0,8395
+"256","Travancore School","Government","Special",0,4465
+"257","Trinity Grammar School","Independent","Pri/Sec",0,0
+"258","Tyabb Railway Station Primary School","Government","Primary",0,3544
+"259","University High School","Government","Secondary",0,8405
+"260","Upwey High School","Government","Secondary",0,8415
+"261","Vermont Secondary College","Government","Secondary",0,8420
+"262","Victoria University Secondary College","Government","Secondary",0,8891
+"263","Viewbank College","Government","Secondary",0,8812
+"264","Viewbank Primary School","Government","Primary",0,4892
+"265","Wandin Yallock Primary School","Government","Primary",0,1033
+"266","Wanganui Park Secondary College","Government","Secondary",0,8422
+"267","Wangaratta High School","Government","Secondary",0,8425
+"268","Wantirna College","Government","Secondary",0,8428
+"269","Warragul Regional College","Government","Secondary",0,8827
+"270","Warrandyte High School","Government","Secondary",0,8437
+"271","Warranwood Primary School","Government","Primary",0,3476
+"272","Warrnambool College","Government","Secondary",0,8811
+"273","Wembley Primary School","Government","Primary",0,4788
+"274","Werribee Secondary College","Government","Secondary",0,8465
+"275","Wesburn Primary School","Government","Primary",0,3466
+"276","Westall Secondary College","Government","Secondary",0,8470
+"277","Westbourne Grammar School","Independent","Pri/Sec",0,1775
+"278","Western Port Secondary College","Government","Secondary",0,7893
+"279","Wheelers Hill Secondary College","Government","Secondary",0,8474
+"280","Whittlesea Secondary College","Government","Secondary",0,7408
+"281","William Ruthven Secondary College","Government","Secondary",0,8895
+"282","Williamstown Primary School","Government","Primary",0,1183
+"283","Winters Flat Primary School","Government","Primary",0,652
+"284","Wodonga Middle Years College","Government","Pri/Sec",0,8851
+"285","Wodonga Senior Secondary College","Government","Secondary",0,8480
+"286","Wonthaggi Secondary College","Government","Secondary",0,8736
+"287","Woodleigh School","Independent","Secondary",0,2064
+"288","Wooragee Primary School","Government","Primary",0,653
+"289","Wyndham Central Secondary College","Government","Secondary",0,7402
+"290","Yarrawonga College P-12","Government","Pri/Sec",0,8883
+"291","","","",0,0

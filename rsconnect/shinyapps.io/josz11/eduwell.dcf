@@ -1,0 +1,11 @@
+name: eduwell
+title: eduwell
+account: josz11
+server: shinyapps.io
+appId: 206217
+bundleId: 947769
+url: https://josz11.shinyapps.io/eduwell/
+when: 1503279084.81466
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: EnrolledStudents2.csv|primary2.csv|SafeSchoolKeyed.csv|safeSchools2.csv|schoolList2.csv|searchtest.R|1270055003_lga_2016_aust_shape/LGA_2016_NT.xml|1270055003_lga_2016_aust_shape/LGA_2016_OT.xml|1270055003_lga_2016_aust_shape/LGA_2016_QLD.xml|1270055003_lga_2016_aust_shape/LGA_2016_SA.xml|1270055003_lga_2016_aust_shape/LGA_2016_TAS.xml|1270055003_lga_2016_aust_shape/LGA_2016_WA.xml
