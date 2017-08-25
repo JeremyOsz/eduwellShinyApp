@@ -12,17 +12,9 @@ bullying_recent <- read.csv("bullyRecent.csv")
 LGA2 <- readRDS("LocalGovtAreas")
 
 #Connect to data base
-getSqlConnection <- function(){
-  con <-
-    dbConnect(
-      RMySQL::MySQL(),
-      username = 'root',
-      password = 'eduwell',
-      host = '35.197.186.109',
-      dbname = 'Edu_Well'
-    ) # TODO: use a configuration group `group = "my-db")`
-  return(con)
-}
+#REDACTED
+
+
 conn <- getSqlConnection()
 res <- dbListTables(conn)
 
